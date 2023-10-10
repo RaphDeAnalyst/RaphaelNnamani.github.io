@@ -2064,7 +2064,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 70%;
 		}
 
 			.image.fit img {
@@ -2082,6 +2082,7 @@ input, select, textarea {
 			.image.avatar img {
 				border-radius: 100%;
 				width: 100%;
+				position: relative;
 			}
 
 /* List */
@@ -2566,13 +2567,14 @@ input, select, textarea {
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
-			margin-left: 0cm;
-			margin-right: 1.05cm;
+			margin-right: 1.02cm;
+			position: relative;
 		}
 
 		#header .image.avatar {
 			margin: 0 1cm 0.5cm 0;
 			width: 70%;
+			position: relative;
 		}
 
 /* Footer */
