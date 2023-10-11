@@ -138,7 +138,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color:#1f1815;
 		font-weight: 400;
-		line-height: 1em;
+		line-height: 1cm;
 		margin: 0 0 1em 0;
 	}
 
@@ -160,6 +160,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.25em;
 		line-height: 1.5em;
+		
 	}
 
 	h4 {
@@ -2793,6 +2794,7 @@ input, select, textarea {
 
 			h3 {
 				font-size: 1em;
+				color: #000000;
 			}
 
 		/* Section/Article */
